@@ -6,4 +6,4 @@ dependencies:
 - matplotlib-base
 - scikit-learn
 - ipykernel
-- dependencynet
+- nox
