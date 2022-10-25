@@ -1,4 +1,4 @@
-matplotlib-base
+matplotlib
 scikit-learn
 ipykernel
 nox
