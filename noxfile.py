@@ -6,7 +6,7 @@ nox.options.reuse_existing_virtualenvs = True
 @nox.session
 def init(session):
     session.install("-r", "venv-config/requirements.txt")
-    session.run("python", "-m", "ipykernel", "install", "--user", "--name=init", "--display-name", "Python 3.9 (iris)")
+    session.run("python", "-m", "ipykernel", "install", "--user", "--name=iris", "--display-name", "Python 3.9 (iris)")
 
 
 @nox.session
