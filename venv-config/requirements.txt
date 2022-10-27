@@ -2,3 +2,5 @@ matplotlib
 scikit-learn
 ipykernel
 nox
+pandas >= 1.5.0
+
